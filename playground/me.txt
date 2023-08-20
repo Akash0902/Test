@@ -1,5 +1,0 @@
-{{#user}}
-Name: Akash Adak 
-Skills: Python , HTML, AWS CLOUD
-Email: akashadak0902@gmail.com
-{{/user}}
